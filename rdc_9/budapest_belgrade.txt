@@ -1,7 +1,7 @@
 
 
 De BUDAPEST à BELGRADE à bicycle, en compagnie de Thomas STEVENS, correspondant du magazine illustré « Outing ».
-							         ___________________________________
+                                     ___________________________________
 
 
 (Traduction par GEMINI, entièrement revue par moi...)
@@ -12,7 +12,7 @@ Budapest Imprimerie de la société anonyme Pallas 1885
 
 NOTE DU TRADUCTEUR :
 - les notes entre crochets [[ ]] sont de moi... !
-- le terme bicycle fait référence au grand-bi (qu'à l'époque on appelait bicycle, dans les pays anglo-saxons et en France) ; le terme machine était également employé par les anglo-saxons. Svetozar emploie aussi parfois les termes vélocipède et vélocipédiste
+- le terme bicycle fait référence au grand-bi (qu'à l'époque on appelait bicycle, dans les pays anglo-saxons et en France) ; le terme machine était également employé par les anglo-saxons. Svetozar emploie aussi parfois les termes vélocipède et vélocipédiste.
 - L'auteur (igali Svetozar) dit, selon, de Stevens : l'Anglais, ou le Yankee ; Stevens est Anglais, mais à l'époque il vivait aux Etats-Unis.
 N.B : j'ai respecté le style du texte original, à la fois récit informel et notes de voyage, éphéméride ; j'ai également respecté l'usage des guillemets fait par l'auteur.
 
@@ -26,40 +26,40 @@ N.B : j'ai respecté le style du texte original, à la fois récit informel et n
 
 
 Tableau de l'itinéraire :
-Date (juin)	Lieu de départ	Déjeuner    Nuitée	        
-8           Budapest        Adony       Duna-Pentele	
-9           Duna-Pentele    Paks        Szegszárd	    
-10          Szegszárd       Duna-Szekcső	            
-11          Duna-Szekcső    Keskend	Eszék	            
-12          Il pleut toute la journée. Restons à Eszék.					
-13          Eszék           Vukovár     Sárengrád	    
-14          Sárengrád       Cserevitz   Pétervárad	    
-15          Pétervárad      India       Batainitza	    
-16          Batainitza      Zimony		                
+Date (juin) Lieu de départ  Déjeuner    Nuitée
+8           Budapest        Adony       Duna-Pentele
+9           Duna-Pentele    Paks        Szegszárd
+10          Szegszárd       Duna-Szekcső
+11          Duna-Szekcső    Keskend	Eszék
+12          Il pleut toute la journée. Restons à Eszék.
+13          Eszék           Vukovár     Sárengrád
+14          Sárengrád       Cserevitz   Pétervárad
+15          Pétervárad      India       Batainitza
+16          Batainitza      Zimony
 
 Nombre de kilomètres    Temps de conduite (heures)
-70                      5	                     
-79                      5 ½	                      
-31                      2 ¼	                     
-82                      6 ½	                     					
+70                      5
+79                      5 ½
+31                      2 ¼
+82                      6 ½		
 0
-74                      7 ¾                      
+74                      7 ¾   
 58                      5    Fruska-Gora
-60                      5	                      
+60                      5           
 14                      1
 
 Remarques :
 Bonne route
 Mauvaise route entre Tolna et Szegszárd
 Stevens est mon invité
-Vent favorable					
+Vent favorable
 0
 Il n'y a pas de route entre Eszék et Trpinje. Nous avons marché.
 --
 Rupture d'une pièce de la machine
 Arrivée
 
-* Total : 468 km	
+* Total : 468 km
 
 Le trajet de 468 km entre Budapest et Belgrade a été parcouru en 38 heures de conduite. Le temps de repos n'est pas inclus dans le temps de conduite.
 
